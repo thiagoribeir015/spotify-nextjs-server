@@ -1,0 +1,9 @@
+{
+    "api": {
+        "host": "https://api.genius.com"
+    },
+    "auth": {
+        "access_token": "lHmXSSbjgahOanWDOInsR3UOb8NSt_ZKclDAqqJkMFvg8jSKWGgdBPVKGA4CneIp"
+    }
+}
+  
